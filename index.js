@@ -9,7 +9,7 @@ module.exports = rename;
 
 /**
  * @param {Array} arr Array of match/replace pairs
- * @return {Function} Rework AST
+ * @return {Function}
  */
 
 function rename(arr) {
