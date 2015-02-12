@@ -1,15 +1,23 @@
 {
   "name": "rework-selector-rename",
-  "version": "1.0.0",
-  "description": "Rename all or part of a selector",
+  "version": "0.1.0",
+  "description": "Rename selectors based on array of match/replace pairs.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "rework",
     "css"
   ],
   "author": "Jacob Lane",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "rework": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacoblane/rework-selector-rename.git"
+  },
 }
