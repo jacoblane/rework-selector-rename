@@ -1,0 +1,15 @@
+{
+  "name": "rework-selector-rename",
+  "version": "1.0.0",
+  "description": "Rename all or part of a selector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rework",
+    "css"
+  ],
+  "author": "Jacob Lane",
+  "license": "MIT"
+}
